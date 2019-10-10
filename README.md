@@ -13,4 +13,8 @@ npm run test-single specs/filter/
 3.Run single test
 ```
 npm run test-single specs/filter/choose_even_spec.js
+npm run test-single specs/collectionOperator/collect_all_even_spec.js
+npm run test-single specs/collectionOperator/
 ```
+
+npm run test-single specs/filter/choose_no_repeat_number_spec.js
