@@ -2,7 +2,7 @@
 
 function compute_median(collection) {
   //write code here
-  collection.reduce(currentNumber)
+  return collection.reduce((total, number) => total + number)/collection.length;
 }
 
 module.exports = compute_median;
